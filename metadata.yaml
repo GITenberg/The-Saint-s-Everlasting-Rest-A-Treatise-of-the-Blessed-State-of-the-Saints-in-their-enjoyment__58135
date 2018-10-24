@@ -1,5 +1,8 @@
 _repo: The-Saint-s-Everlasting-Rest-A-Treatise-of-the-Blessed-State-of-the-Saints-in-their-enjoyment__58135
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58135-h/images/cover.jpg
 creator:
   author:
     agent_name: Baxter, Richard
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '41274'
     url: http://www.gutenberg.org/2009/agents/41274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58135#The-Saint-s-Everlasting-Rest-A-Treatise-of-the-Blessed-State-of-the-Saints-in-their-enjoyment_
 gutenberg_issued: '2018-10-19'
 gutenberg_type: Text
 identifiers:
